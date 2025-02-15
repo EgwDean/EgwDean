@@ -27,7 +27,7 @@
 
 ## 🚀 Member of **ACM** & **IGEM** Student Chapters  
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <a href="https://acmupatras.acm.org/" target="_blank">
