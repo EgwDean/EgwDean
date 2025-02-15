@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/upatras.png" width="50" alt="University of Patras Logo" style="margin-right: 30px; margin-left: 30px;">
   </a>
   <a href="https://www.ceid.upatras.gr/en/home/" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/ceid.png" width="55" alt="CEID Logo" style="margin-right: 30px; margin-left: 30px">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/ceid.png" width="55" alt="CEID Logo" style="margin-right: 30px; margin-left: 30px;">
   </a>
 </div>
 <br>
