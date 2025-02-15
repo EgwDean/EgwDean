@@ -6,7 +6,7 @@
   <a href="https://www.upatras.gr/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/upatras.png" height="50" alt="University of Patras Logo">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ceid.upatras.gr/en/home/" target="_blank">
     <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/ceid.png" height="55" alt="CEID Logo">
   </a>
@@ -32,9 +32,8 @@
     <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/acm.png" width="80" alt="ACM Logo">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <br> <!-- Add a line break here to give some space -->
   <a href="https://igem.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png" width="60" alt="IGEM Logo">
+    <sup><sup><sup><sup><img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png" width="60" alt="IGEM Logo"></sup></sup></sup></sup>
   </a>
 </p>
 
