@@ -28,10 +28,10 @@
 ## 🚀 Member of **ACM** & **IGEM** Student Chapters
 <div class="image-container" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://acmupatras.acm.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/acm.png" width="100" alt="ACM Logo" style="margin-right: 30px; margin-left: 30px">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/acm.png" width="100" alt="ACM Logo" style="margin-right: 30px; margin-left: 30px;">
   </a>
   <a href="https://igem.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png" width="60" alt="IGEM Logo" style="margin-right: 30px; margin-left: 10px">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png" width="60" alt="IGEM Logo" style="margin-right: 30px; margin-left: 10px;">
   </a>
 </div>
 
@@ -80,15 +80,15 @@
 
 <div class="image-container" style="display: flex; justify-content: center; align-items: center;">
   <a href="mailto:k.matsaniaou2003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/email.png" width="40" alt="Email Logo" style="margin-right: 30px; margin-left: 30px">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/email.png" width="40" alt="Email Logo" style="margin-right: 30px; margin-left: 30px;">
   </a>
   <a href="https://www.linkedin.com/in/%CE%BA%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82-%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CE%B1%CF%83%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82-979770151/" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/linkedin.png" width="40" alt="LinkedIn Logo" style="margin-right: 30px; margin-left: 30px">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/linkedin.png" width="40" alt="LinkedIn Logo" style="margin-right: 30px; margin-left: 30px;">
   </a>
     <a href="https://www.instagram.com/egwdean/" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/instagram.png" width="40" alt="Instagram Logo" style="margin-right: 30px; margin-left: 30px">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/instagram.png" width="40" alt="Instagram Logo" style="margin-right: 30px; margin-left: 30px;">
   </a>
     <a href="https://www.facebook.com/egwdean/" target="_blank">
-    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/facebook.png" width="40" alt="Facebook Logo" style="margin-right: 30px; margin-left: 30px">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/facebook.png" width="40" alt="Facebook Logo" style="margin-right: 30px; margin-left: 30px;">
   </a>
 </div>
