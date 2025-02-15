@@ -27,20 +27,15 @@
 
 ## 🚀 Member of **ACM** & **IGEM** Student Chapters  
 
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <a href="https://acmupatras.acm.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/acm.png" width="80" alt="ACM Logo">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://igem.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png" width="60" alt="IGEM Logo">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://acmupatras.acm.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/acm.png" width="80" alt="ACM Logo">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://igem.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png" width="60" alt="IGEM Logo">
+  </a>
+</p>
 
 ---
 
