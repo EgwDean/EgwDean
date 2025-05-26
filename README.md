@@ -33,7 +33,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://igem.org/" target="_blank">
-    <sup><sup><sup><sup><img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png" width="60" alt="IGEM Logo"></sup></sup></sup></sup>
+    <sup><sup><sup><sup><img src="[https://raw.githubusercontent.com/EgwDean/assets/main/logos/igem.png](https://github.com/EgwDean/assets/blob/main/logos/IGEM%20%CE%BA%CF%85%CE%BA%CE%BB%CE%B9%CE%BA%CF%8C.png)" width="60" alt="IGEM Logo"></sup></sup></sup></sup>
   </a>
 </p> 
 
