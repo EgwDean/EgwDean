@@ -61,6 +61,8 @@
 
 ## 🤝 Let's Connect!  
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="konstantinos-anastasopoulos-979770151" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/konstantinos-anastasopoulos-979770151?trk=profile-badge">Konstantinos Anastasopoulos</a></div>
+
 <p align="center">
   <a href="mailto:k.matsaniaou2003@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/email.png" height="40" alt="Email">
