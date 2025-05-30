@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/email.png" height="40" alt="Email">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/%CE%BA%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82-%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CE%B1%CF%83%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82-979770151/" target="_blank">
+  <a href="https://www.linkedin.com/in/konstantinos-anastasopoulos-979770151/" target="_blank">
     <img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/linkedin.png" height="40" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
