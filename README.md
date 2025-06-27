@@ -42,13 +42,13 @@
 ## 🌟 Featured Projects  
 
 - 🔹 **[Webpage for Managing Diploma Theses](https://github.com/EgwDean/Web-Project-24-25)**  
-- 🔹 **[Experimental Evaluation of Multidimensional Data Structures](https://github.com/F1l14/MDS)**  
+- 🔹 **[Experimental Evaluation of Multidimensional Data Structures](https://github.com/EgwDean/MDS)**  
 - 🔹 **[Parser/Lexer for Object-Oriented Language Using Flex/Bison](https://github.com/EgwDean/Flex-Bison-Project-23-24)**  
 - 🔹 **[Telecommunication Systems Simulator (PCM, DPCM, M-PAM)](https://github.com/EgwDean/Digital-Telecommunications-Project-24-25)**  
 - 🔹 **[Hotel Reservation Statistics Interface (Python)](https://github.com/EgwDean/Python-DB-Project-23-24)**  
 - 🔹 **[Employee Evaluation System (Java)](https://github.com/EgwDean/Databases-Project-23-24)**  
 - 🔹 **[Shell Scripting/Multiprocessing/Process Scheduling (C)](https://github.com/EgwDean/OS-Project-23-24)**  
-- 🔹 **[Experimental Evaluation of Data Structures and Sorting (C++)](https://github.com/vasiliskoutroumpelas/DS-Project-23)**  
+- 🔹 **[Experimental Evaluation of Data Structures and Sorting (C++)](https://github.com/EgwDean/DS-Project-23)**  
 - 🔹 **[Reverse Polish Notation Calculator (Java)](https://github.com/EgwDean/RPN-Calculator-21-22)**
 - 🔹 **[CaRent, Web Application for P2P Car Rentals](https://github.com/EgwDean/Software-Engineering-Project-24-25)**
 - 🔹 **[ATmega4808 Programming (C)](https://github.com/EgwDean/Advanced-Microprocessors-Lab)**
