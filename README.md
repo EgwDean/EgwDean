@@ -49,7 +49,15 @@
 - 🔹 **[Employee Evaluation System (Java)](https://github.com/EgwDean/Databases-Project-23-24)**  
 - 🔹 **[Shell Scripting/Multiprocessing/Process Scheduling (C)](https://github.com/EgwDean/OS-Project-23-24)**  
 - 🔹 **[Experimental Evaluation of Data Structures and Sorting (C++)](https://github.com/vasiliskoutroumpelas/DS-Project-23)**  
-- 🔹 **[Reverse Polish Notation Calculator (Java)](https://github.com/EgwDean/RPN-Calculator-21-22)**  
+- 🔹 **[Reverse Polish Notation Calculator (Java)](https://github.com/EgwDean/RPN-Calculator-21-22)**
+- 🔹 **[CaRent, Web Application for P2P Car Rentals](https://github.com/EgwDean/Software-Engineering-Project-24-25)**
+- 🔹 **[ATmega4808 Programming (C)](https://github.com/EgwDean/Advanced-Microprocessors-Lab)**
+- 🔹 **[Hand Movement Recognizer, Artificial Inteligence of Things](https://github.com/EgwDean/Sensor-Network-Project-24-25)**
+- 🔹 **[Data Mining, Clustering & Classification](https://github.com/EgwDean/Data-Mining-Project-24-25)**
+- 🔹 **[Similarity Techniques (Python)](https://github.com/EgwDean/ATDS-Project-24-25)**
+- 🔹 **[Graph Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-24-25)**
+- 🔹 **[Crypto & Population Protocol Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-2-24-25)**
+- 🔹 **[Cellular Automata & Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-3-24-25)**
 
 ---
 
