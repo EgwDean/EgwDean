@@ -1,6 +1,6 @@
 # Konstantinos Anastasopoulos
 
-## 🎓 **University of Patras | Computer Engineering Student | 4th Year**  
+## 🎓 **University of Patras | Computer Engineering Student | 5th Year**  
 
 <p align="center">
   <a href="https://www.upatras.gr/en/" target="_blank">
