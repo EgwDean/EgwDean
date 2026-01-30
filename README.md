@@ -42,8 +42,7 @@
 - 🔹 **[Similarity Techniques (Python)](https://github.com/EgwDean/ATDS-Project-24-25)**
 - 🔹 **[Graph Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-24-25)**
 - 🔹 **[Crypto & Population Protocol Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-2-24-25)**
-- 🔹 **[Cellular Automata & Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-3-24-25)**
-- 
+- 🔹 **[Cellular Automata & Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-3-24-25)** 
 
 
 ##  Let's Connect!  
