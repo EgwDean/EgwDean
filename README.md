@@ -1,6 +1,6 @@
 # Konstantinos Anastasopoulos
 
-## 🎓 **University of Patras | Computer Engineering Student | 5th Year**  
+##  **University of Patras | Computer Engineering Student | 5th Year**  
 
 <p align="center">
   <a href="https://www.upatras.gr/en/" target="_blank">
@@ -14,18 +14,7 @@
 
 ---
 
-## 💻 Interested in  
-- **Artificial Intelligence**
-- **Machine Learning**
-- **Software Development**
-- **Web Design**
-- **Data Structures**
-- **Databases**
-- **Anything computer-related**  
-
----
-
-## 🚀 Member of **ACM** & **IGEM** Student Chapters  
+##  Member of **ACM** & **IGEM** Student Chapters  
 
 <p align="center">
   <a href="https://acmupatras.acm.org/" target="_blank">
@@ -39,7 +28,7 @@
 
 ---
 
-## 🌟 Featured Projects  
+##  Featured Projects  
 
 - 🔹 **[Webpage for Managing Diploma Theses](https://github.com/EgwDean/Web-Project-24-25)**  
 - 🔹 **[Experimental Evaluation of Multidimensional Data Structures](https://github.com/EgwDean/MDS)**  
@@ -61,13 +50,13 @@
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgwDean&layout=compact&theme=github_dark)  
 
 ---
 
-## 🤝 Let's Connect!  
+##  Let's Connect!  
 
 <p align="center">
   <a href="mailto:k.matsaniaou2003@gmail.com" target="_blank">
