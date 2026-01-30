@@ -43,14 +43,8 @@
 - 🔹 **[Graph Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-24-25)**
 - 🔹 **[Crypto & Population Protocol Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-2-24-25)**
 - 🔹 **[Cellular Automata & Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-3-24-25)**
+- 
 
----
-
-##  GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgwDean&layout=compact&theme=github_dark)  
-
----
 
 ##  Let's Connect!  
 
