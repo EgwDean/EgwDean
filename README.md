@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 ##  Member of **ACM** & **IGEM** Student Chapters  
 
 <p align="center">
@@ -25,8 +23,6 @@
     <sup><sup><sup><sup><img src="https://raw.githubusercontent.com/EgwDean/assets/main/logos/IGEM%20%CE%BA%CF%85%CE%BA%CE%BB%CE%B9%CE%BA%CF%8C.png" width="60" alt="IGEM Logo"></sup></sup></sup></sup>
   </a>
 </p> 
-
----
 
 ##  Featured Projects  
 
