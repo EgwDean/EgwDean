@@ -43,7 +43,7 @@
 - 🔹 **[Graph Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-24-25)**
 - 🔹 **[Crypto & Population Protocol Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-2-24-25)**
 - 🔹 **[Cellular Automata & Agent Based Modeling](https://github.com/EgwDean/Decentralized-Computing-Project-3-24-25)** 
-- 🔹 **[Experimental Evaluation of Information Retrival Models]((https://github.com/EgwDean/Information-Retrieval-25-26))**
+- 🔹 **[Experimental Evaluation of Information Retrival Models](https://github.com/EgwDean/Information-Retrieval-25-26)**
 - 🔹 **[Distributed Systems' Processes and Security Models](https://github.com/EgwDean/Distributed-Systems-25-26)**
 - 🔹 **[Chord and Pastry DHT Implemntations](https://github.com/EgwDean/Decentralized-Data-Technologies-and-Algorithms-25-26)**
 
